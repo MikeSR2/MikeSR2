@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Miguel
 - 👀 I’m interested in web development, cloud, gaming, game development.
 - 🌱 I’m currently learning technologies for web development, microservices, etc. (Java, Spring Boot, Node.js, etc)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email.
 
 <!---
